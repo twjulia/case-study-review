@@ -1,8 +1,8 @@
-# Case Study Review
+# Case Study Review: AI Portfolio Reviewer for Product Designers
 
-My working framework for reviewing one product design case study at a time.
+An AI-powered portfolio case study reviewer for product designers. Use this single-file AI skill to get structured design feedback, scores across ten dimensions, and actionable improvements for one UX or product design portfolio case study at a time.
 
-I built this to get feedback I could act on while working on my own portfolio. It reviews a case study across ten dimensions, including the decisions behind the work, visual craft, writing, desktop and mobile layouts, and motion where it can be inspected.
+I built this working framework to get feedback I could act on while working on my own portfolio. It reviews the decisions behind the work, visual craft, writing, desktop and mobile layouts, and motion where it can be inspected. Staff Product Designer is the suggested review level, and you can change it to match your target role.
 
 ## Use it
 
@@ -32,3 +32,4 @@ Scores guide revision. They do not predict hiring outcomes.
 The skill is a single file. No other files or setup are needed.
 
 By [Julia Wang](https://juliawang.net/) · [More about the project](https://juliawang.net/lab)
+
