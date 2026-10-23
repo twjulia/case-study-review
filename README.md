@@ -6,7 +6,7 @@ I built this working framework to get feedback I could act on while working on m
 
 ## Use it
 
-1. Download [SKILL.md](https://raw.githubusercontent.com/twjulia/case-study-review/main/SKILL.md).
+1. Download [SKILL.md](https://github.com/twjulia/case-study-review/releases/latest/download/SKILL.md).
 2. Attach the file to an AI conversation and share the direct link to **one case study**. Screenshots or a PDF also work when the page is unavailable.
 3. Paste this request:
 
